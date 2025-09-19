@@ -1,0 +1,11 @@
+{
+    "serverID":"9988",
+    "dbUser":"root",
+    "dbPasswd":"123",
+    "dbHost":"localhost",
+    "dbPort":33060,
+    "dbName":"SECMNG",
+    "port":8989,
+    "maxnode":20,
+    "shmkey":"/home/bin"
+}

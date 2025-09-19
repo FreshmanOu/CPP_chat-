@@ -1,0 +1,3 @@
+/home/ou/platformClient/build/CMakeFiles/client.dir
+/home/ou/platformClient/build/CMakeFiles/edit_cache.dir
+/home/ou/platformClient/build/CMakeFiles/rebuild_cache.dir

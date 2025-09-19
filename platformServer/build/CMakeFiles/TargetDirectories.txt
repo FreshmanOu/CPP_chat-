@@ -1,0 +1,3 @@
+/home/ou/platformServer/build/CMakeFiles/server.dir
+/home/ou/platformServer/build/CMakeFiles/edit_cache.dir
+/home/ou/platformServer/build/CMakeFiles/rebuild_cache.dir
