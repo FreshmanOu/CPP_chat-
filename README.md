@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlatformClient和PlatformServer密钥管理系统
 
 ## 简介
@@ -80,3 +81,7 @@ cd platformClient/build/bin
 ## 文档
 
 详细使用说明请参考`PlatformClient和PlatformServer使用文档.md`。
+=======
+# SeckeyTransformPlatform
+一个密钥管理系统，用于安全地管理客户端和服务器之间的密钥协商、校验和注销。系统采用RSA非对称加密和AES对称加密技术，确保密钥传输和存储的安全性。
+>>>>>>> 19b03d49f3abecc22e9361264b50b151dedbb8a8
