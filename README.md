@@ -15,10 +15,7 @@ CPP_Chat/
 ├── build/           # 构建输出目录
 ├── Makefile         # 通用Makefile
 ├── build_client.bat # Windows客户端构建脚本
-├── build_client_linux.sh # Linux客户端构建脚本
-├── build_server.sh  # Linux服务器端构建脚本
-├── clean.bat        # Windows清理脚本
-└── clean.sh         # Linux清理脚本
+── clean.bat        # Windows清理脚本
 ```
 
 ## 构建说明
